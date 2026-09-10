@@ -1,0 +1,2 @@
+name,scheme_service_type,government_level,state_ut,department,category,description,benefits,eligibility,required_documents,official_source_url,application_url,last_verified_date,verification_status,is_active
+Example official record,SCHEME,STATE,Example State,Example Department,Example category,Replace with text verified from the official source,Verified benefit 1|Verified benefit 2,{},,https://official.example.gov.in/,https://official.example.gov.in/apply,2026-09-10,PENDING_ADMIN_REVIEW,true
