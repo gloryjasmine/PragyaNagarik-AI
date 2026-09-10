@@ -1,0 +1,10 @@
+{
+  "name": "PragyaNagarik AI",
+  "description": "Multilingual, personalized and voice-enabled government services copilot discovering verified Central, State, and UT schemes and services.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
